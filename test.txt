@@ -18,3 +18,4 @@ baseline
 baseline 
 krok1 
 krok1
+krok1
