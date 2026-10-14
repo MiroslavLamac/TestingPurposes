@@ -26,3 +26,4 @@ krok3
 port80
 t1
 t2
+t2
